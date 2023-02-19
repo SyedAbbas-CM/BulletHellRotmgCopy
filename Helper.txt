@@ -1,0 +1,10 @@
+Somethings wrong with the enemy bullets , they seem to aim a little above or below in certain places but hit on point in some other areas
+
+How the hell am i supposed to make enemies shhot different , i can make them move differently 
+with virtual movement functions but how am i supposed to make them attack
+
+
+
+haha got that done , well anyways i need to implement a random class for its functions and im going to make that pre compiled library thing , also we need to fix hitboxes , set a rectangle thing for it , used in video 1-2 - ??? in wingman 
+
+also add acceleration fucnctionality from wingman like 6-7
